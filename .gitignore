@@ -1,3 +1,6 @@
 output
 test.c
 .vscode
+*.exe
+*.out
+hello.c
